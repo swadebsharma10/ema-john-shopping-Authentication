@@ -40,3 +40,9 @@
   font-size: 22px;
   font-weight: bold;
 }
+
+.text-error {
+  text-align: center;
+  color: rgb(148, 30, 30);
+  font-weight: 600;
+}
